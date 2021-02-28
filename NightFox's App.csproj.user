@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AddCinemaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditCinemaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditCinemaListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditUserDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoundPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserRoomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WelcomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
