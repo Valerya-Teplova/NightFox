@@ -1,0 +1,123 @@
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\bin\Debug\net5.0-windows\NightFox's App.exe
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\bin\Debug\net5.0-windows\NightFox's App.deps.json
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\bin\Debug\net5.0-windows\NightFox's App.runtimeconfig.json
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\bin\Debug\net5.0-windows\NightFox's App.runtimeconfig.dev.json
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\bin\Debug\net5.0-windows\NightFox's App.dll
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\bin\Debug\net5.0-windows\ref\NightFox's App.dll
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\bin\Debug\net5.0-windows\NightFox's App.pdb
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\test.AddCinemaForm.resources
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\test.AdminForm.resources
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\test.EditCinemaForm.resources
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\test.EditUserDataForm.resources
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\test.LoginForm.resources
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\NightFox's App.Properties.Resources.resources
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\test.registerForm.resources
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\test.UserRoomForm.resources
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\test.WelcomeForm.resources
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\NightFox's App.csproj.GenerateResource.cache
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\NightFox's App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\NightFox's App.AssemblyInfoInputs.cache
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\NightFox's App.AssemblyInfo.cs
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\NightFox's App.csproj.CoreCompileInputs.cache
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\NightFox's App.csproj.CopyComplete
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\NightFox's App.dll
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\ref\NightFox's App.dll
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\NightFox's App.pdb
+C:\Users\L0ndl3m\Desktop\Development\test\test\test\obj\Debug\net5.0-windows\NightFox's App.genruntimeconfig.cache
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.AssemblyInfoInputs.cache
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.AssemblyInfo.cs
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.csproj.CoreCompileInputs.cache
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.dll
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\ref\NightFox's App.dll
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.pdb
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.exe
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.deps.json
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.runtimeconfig.json
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.runtimeconfig.dev.json
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.dll
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\ref\NightFox's App.dll
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.pdb
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.csproj.CopyComplete
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.genruntimeconfig.cache
+C:\Users\L0ndl3m\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.csprojAssemblyReference.cache
+C:\Users\user\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.exe
+C:\Users\user\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.deps.json
+C:\Users\user\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.runtimeconfig.json
+C:\Users\user\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.runtimeconfig.dev.json
+C:\Users\user\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.dll
+C:\Users\user\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\ref\NightFox's App.dll
+C:\Users\user\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.pdb
+C:\Users\user\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\NightFox's App\NightFox's App\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\test.AddCinemaForm.resources
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\test.AdminForm.resources
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\test.EditCinemaForm.resources
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\test.EditUserDataForm.resources
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\test.LoginForm.resources
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\test.registerForm.resources
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\test.UserRoomForm.resources
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\test.WelcomeForm.resources
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.csproj.GenerateResource.cache
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.AssemblyInfo.cs
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.csproj.CopyComplete
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.dll
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\ref\NightFox's App.dll
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.pdb
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.genruntimeconfig.cache
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\test.Properties.Resources.resources
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.csprojAssemblyReference.cache
+C:\Users\user\Desktop\NightFox's App\NightFox's App\obj\Debug\net5.0-windows\test.EditCinemaListForm.resources
+F:\NightFox's App_project\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.exe
+F:\NightFox's App_project\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.deps.json
+F:\NightFox's App_project\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.runtimeconfig.json
+F:\NightFox's App_project\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.runtimeconfig.dev.json
+F:\NightFox's App_project\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.dll
+F:\NightFox's App_project\NightFox's App\bin\Debug\net5.0-windows\ref\NightFox's App.dll
+F:\NightFox's App_project\NightFox's App\bin\Debug\net5.0-windows\NightFox's App.pdb
+F:\NightFox's App_project\NightFox's App\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+F:\NightFox's App_project\NightFox's App\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+F:\NightFox's App_project\NightFox's App\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+F:\NightFox's App_project\NightFox's App\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+F:\NightFox's App_project\NightFox's App\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\NightFox's App_project\NightFox's App\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.csprojAssemblyReference.cache
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\test.AddCinemaForm.resources
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\test.AdminForm.resources
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\test.EditCinemaForm.resources
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\test.EditCinemaListForm.resources
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\test.EditUserDataForm.resources
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\test.LoginForm.resources
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\test.Properties.Resources.resources
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\test.registerForm.resources
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\test.UserRoomForm.resources
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\test.WelcomeForm.resources
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.csproj.GenerateResource.cache
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.GeneratedMSBuildEditorConfig.editorconfig
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.AssemblyInfoInputs.cache
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.AssemblyInfo.cs
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.csproj.CoreCompileInputs.cache
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.csproj.CopyComplete
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.dll
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\ref\NightFox's App.dll
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.pdb
+F:\NightFox's App_project\NightFox's App\obj\Debug\net5.0-windows\NightFox's App.genruntimeconfig.cache
